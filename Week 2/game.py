@@ -1,6 +1,7 @@
 # Keeley Imlah
 # CSE-210 Winter 2022
 # Tic Tac Toe game in Python
+# What I was trying was not working cohesivly so I worked through the example on Friday
 
 def main():
     player = next_player("")
